@@ -19,7 +19,8 @@
 - Clonare il progetto 
 - Compilare il progetto con il comando mvn clean install
 - avviare il server con il comando java -jar .\test-0.0.1-SNAPSHOT.jar --spring.r2dbc.url="r2dbc:h2:file://PATH//TO//database;DB_CLOSE_DELAY=-1"
-*** Specificare un file db (non allegato al presente progetto) ***
+Specificare un file db (non allegato al presente progetto) 
+una volta avviato springboot swagger è disponibilie all'indirizzo http://server:port/swagger-ui/index.html
 
 ### Prerequisiti
 
